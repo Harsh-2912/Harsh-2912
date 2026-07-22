@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harsh
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Mern Stack
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on any platform as I am a quick learner
 - 📫 How to reach me, well you can e-mail me on: harshp.offc03@gmail.com
 - ⚡ Fun fact: I love hiking and trekking.
